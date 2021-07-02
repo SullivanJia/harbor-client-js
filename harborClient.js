@@ -1,10 +1,6 @@
 /*
  * @Author: jiagy
- * @Date: 2020-09-22 14:02:09
- * @LastEditTime: 2021-07-02 11:02:08
- * @LastEditors: Please set LastEditors
- * @Description: 对harbor的client进行封装
- * @FilePath: /rest-server/src/models/harbor/harborClient.js
+ * @FilePath: harbor/harborClient.js
  */
 
 const {
